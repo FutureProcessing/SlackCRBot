@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+appSettings.config
+*.user
+*.pubxml
